@@ -16,8 +16,12 @@ li {
 }
 #cookies-box {
   width: 775px;
-  padding-left: 150px;
+  /* padding-left: 150px; */
   display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  height: 100h;
 }
 
 #sidebar {
